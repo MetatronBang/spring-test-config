@@ -1,2 +1,1 @@
-# spring-test-config
-# for spring cloud
+# spring-test-config for spring cloud
