@@ -1,1 +1,1 @@
-# config for spring cloud 
+# config for spring cloud v1.0
